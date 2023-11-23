@@ -1,0 +1,33 @@
+.add {
+  background-color: #517C8C;
+  color: #E8F2D0;
+  font-weight: bold;
+  margin: 20px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+.add label {
+  height: 25px;
+  margin: 8px;
+  display: flex;
+  justify-content: space-between;
+}
+.add label input {
+  width: 82%;
+  height: 100%;
+  margin-left: 5px;
+  outline: none;
+}
+.add button {
+  background-color: #E8F2D0;
+  color: #517C8C;
+  width: 100%;
+  margin: 0;
+  margin-top: 10px;
+}
+.add button:hover {
+  background-color: #121D40;
+  color: #E8F2D0;
+}

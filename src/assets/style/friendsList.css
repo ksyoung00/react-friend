@@ -1,0 +1,27 @@
+.listUl li {
+  margin: 30px;
+  display: flex;
+  font-weight: bold;
+}
+.listUl li img {
+  width: 100px;
+  height: 100px;
+  margin-right: 40px;
+  border-radius: 50%;
+}
+.listUl li strong {
+  font-size: 1.03rem;
+}
+.listUl li p {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.listUl li p span {
+  margin: 5px 0 5px;
+}
+.listUl li button {
+  width: 100%;
+  height: 30px;
+  margin: 0;
+}

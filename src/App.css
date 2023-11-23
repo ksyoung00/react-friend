@@ -1,0 +1,18 @@
+body {
+  margin: 30px;
+  color: #295073;
+  background-color: #E8F2D0;
+}
+.borderTop {
+  border-top: 1px solid black;
+  margin: 30px 0;
+  padding: 10px 0;
+}
+
+.margin-10 {
+  margin: 10px;
+}
+
+.padding-10 {
+  padding: 10px;
+}
