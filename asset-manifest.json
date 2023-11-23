@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-friend/static/css/main.effc012d.css",
+    "main.js": "/react-friend/static/js/main.1b4beb70.js",
+    "index.html": "/react-friend/index.html",
+    "main.effc012d.css.map": "/react-friend/static/css/main.effc012d.css.map",
+    "main.1b4beb70.js.map": "/react-friend/static/js/main.1b4beb70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.effc012d.css",
+    "static/js/main.1b4beb70.js"
+  ]
+}
